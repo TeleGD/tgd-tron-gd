@@ -1,0 +1,5 @@
+- Jérôme Gauzins (@jeromegauzins)
+- Medhi Akkari (@MedhiTheMedoc)
+- Moran Leterrier (@leterrierM)
+- Pierre-Arnaud Blanc (@JSNerd12345)
+- Stefan Morel--Doridat (@stefanVonCarstein)
